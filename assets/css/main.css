@@ -101,7 +101,7 @@ input, select, textarea {
 	body, input, textarea, select {
 		font-family: 'Source Sans Pro';
 		font-weight: 300;
-		color: white;
+		color: black;
 		font-size: 14pt;
 		line-height: 1.75em;
 	}
@@ -152,7 +152,7 @@ input, select, textarea {
 	}
 
 	a {
-		color: lavender;
+		color: black;
 		text-decoration: underline;
 	}
 
@@ -1459,7 +1459,7 @@ input, select, textarea {
 		font-size: 1em;
 		border-radius: 5px;
 		border: solid 1px #dddddd;
-		background: #fff;
+		background: black;
 		width: 100%;
 	}
 
@@ -2027,7 +2027,7 @@ input, select, textarea {
 			.icon.featured:before {
 				font-size: 4.5em;
 				line-height: 1em;
-				color: #fff;
+				color: black;
 			}
 
 			.icon.featured:after {
@@ -2150,7 +2150,7 @@ input, select, textarea {
 		}
 
 			.dropotron li:hover > a, .dropotron li:hover > span {
-				color: #fff;
+				color: black;
 			}
 
 		.dropotron.level-0 {
@@ -2266,7 +2266,7 @@ input, select, textarea {
 
 	#main {
 		position: relative;
-		background: #f7f7f7 url("images/bg02.png");
+		background: black url("images/bg02.png");
 		padding: 4em 0 4em 0;
 	}
 
@@ -2283,7 +2283,7 @@ input, select, textarea {
 		}
 
 		#main .major h2 {
-			background: #f7f7f7 url("images/bg02.png");
+			background: black url("images/bg02.png");
 		}
 
 /* Footer */
@@ -2311,7 +2311,7 @@ input, select, textarea {
 		}
 
 		#footer h2, #footer h3, #footer h4, #footer h5, #footer h6, #footer strong, #footer b {
-			color: #fff;
+			color: black;
 		}
 
 			#footer h2 a, #footer h3 a, #footer h4 a, #footer h5 a, #footer h6 a, #footer strong a, #footer b a {
